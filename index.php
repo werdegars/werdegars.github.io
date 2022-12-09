@@ -1,3 +1,1 @@
-Head
-<?php echo "Hello World"; ?>
-Footer
+"Hello World"
